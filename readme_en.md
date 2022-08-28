@@ -1,6 +1,6 @@
 ![](TMG.jpg)
 # GlyphBERT
-[中文版](https://github.com/HITsz-TMG/GlyphBERT/readme.md)  
+[中文版](https://github.com/HITsz-TMG/GlyphBERT/blob/master/readme.md)  
 
 This project page is about the pytorch code implementation of GlyphBERT by the HITsz-TMG research group.
 
