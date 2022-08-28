@@ -1,6 +1,6 @@
 ![](TMG.jpg)
 # GlyphBERT
-[English version](https://github.com/HITsz-TMG/GlyphBERT/readme_en.md)  
+[English version](https://github.com/HITsz-TMG/GlyphBERT/blob/master/readme_en.md)  
 
 这个项目页面是关于哈工大(深圳) TMG课题组对于GlyphBERT的pytorch代码实现。
 
