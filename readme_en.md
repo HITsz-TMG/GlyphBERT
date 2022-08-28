@@ -10,7 +10,7 @@ This project page is about the pytorch code implementation of GlyphBERT by the H
 
 ***
 
-##Introduction：  
+## Introduction：  
 
 
 The glyphs of Chinese characters can convey some meanings in many cases, and Chinese characters with similar structures can have intrinsic links.   
@@ -24,7 +24,7 @@ The experimental results show that the performance of the pre-training model can
 ***
 
 
-##Environment Requirements:  
+## Environment Requirements:  
 torch~=1.10.1+cu111  
 tqdm~=4.64.0  
 transformers~=4.5.1  
@@ -42,7 +42,7 @@ state_dict:
 + "model": GlyphBERT's parameters (essential)
 
 ***
-##A example to Finetune GlyphBERT: 
+## A example to Finetune GlyphBERT: 
 
 ***
 
