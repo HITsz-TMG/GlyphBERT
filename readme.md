@@ -10,7 +10,7 @@
 
 ***
 
-##Introduction：  
+## Introduction：  
 
 
 汉字的字形在许多情况下可以传达其意义，而具有相似结构的汉字也具有内在的联系。它们直观的表明，汉字的符号特征具有增强其表达能力的潜力。
@@ -24,7 +24,7 @@ GlyphBERT是一个包含了汉字字形特征中文预训练模型。它通过�
 ***
 
 
-##Environment Requirements:  
+## Environment Requirements:  
 torch~=1.10.1+cu111  
 tqdm~=4.64.0  
 transformers~=4.5.1  
@@ -39,8 +39,9 @@ nltk~=3.6.1
 + "config": 预训练时使用的config,  
 + "training_state": 预训练相关的存档点状态与说明,  
 + "model": GlyphBERT模型参数 (必要)
-***
-##快速进行Finetune: 
+***  
+
+## 快速进行Finetune: 
 
 ***
 
