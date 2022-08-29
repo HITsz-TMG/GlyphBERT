@@ -15,12 +15,15 @@
 
 ## Introduction：  
 
-
-汉字的字形在许多情况下可以传达其意义，而具有相似结构的汉字也具有内在的联系。它们直观的表明，汉字的符号特征具有增强其表达能力的潜力。
 ![img.png](img.png)  
+汉字的字形在许多情况下可以传达其意义，而具有相似结构的汉字也具有内在的联系。它们直观的表明，汉字的符号特征具有增强其表达能力的潜力。
 
 GlyphBERT是一个包含了汉字字形特征中文预训练模型。它通过将输入的字符渲染成图像并设计成多通道位置特征图的形式，并设计了一个两层
 残差卷积神经网络模块来提取字符的图像特征进行训练。  
+![image](https://user-images.githubusercontent.com/30381613/187146136-876afbf0-06e4-4dfa-87a7-9234196ae10a.png)
+
+我们提出了一个HanGlyph模块来提取字符图像，它包含了两个结构相似、但参数不同的残差卷积模块。在HanGlyph模块之后使用了Transformer模块来捕捉双向上下文表示，通过Masm Language Model和Next Sentence Prediction两个预训练任务训练整个模型。
+![image](https://user-images.githubusercontent.com/30381613/187147369-3ef5a097-f6ad-43b2-aac3-e44a7fc7a5c8.png)  
 
 实验结果证明，通过融合汉字字形的特征能够很好的提升预训练模型的性能，GlyphBERT在多个下游任务上大大优于BERT的性能，并且具有很强的可迁移性。
 
