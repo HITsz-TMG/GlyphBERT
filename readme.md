@@ -86,3 +86,26 @@ python classification.py --dataset_name chnsenti --pretrained_model_path ./pretr
 
 ***
 
+##引用  
+
+@article{DBLP:journals/corr/abs-2107-00395,
+  author    = {Yunxin Li and
+               Yu Zhao and
+               Baotian Hu and
+               Qingcai Chen and
+               Yang Xiang and
+               Xiaolong Wang and
+               Yuxin Ding and
+               Lin Ma},
+  title     = {GlyphCRM: Bidirectional Encoder Representation for Chinese Character
+               with its Glyph},
+  journal   = {CoRR},
+  volume    = {abs/2107.00395},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2107.00395},
+  eprinttype = {arXiv},
+  eprint    = {2107.00395},
+  timestamp = {Wed, 27 Jul 2022 14:45:04 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2107-00395.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
