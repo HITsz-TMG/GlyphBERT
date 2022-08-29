@@ -86,8 +86,8 @@ python classification.py --dataset_name chnsenti --pretrained_model_path ./pretr
 
 ***
 
-##引用  
-
+## 引用我们  
+```bash  
 @article{DBLP:journals/corr/abs-2107-00395,
   author    = {Yunxin Li and
                Yu Zhao and
@@ -109,3 +109,4 @@ python classification.py --dataset_name chnsenti --pretrained_model_path ./pretr
   biburl    = {https://dblp.org/rec/journals/corr/abs-2107-00395.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
