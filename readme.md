@@ -1,4 +1,4 @@
-![](TMG.jpg)
+![TMG](https://user-images.githubusercontent.com/30381613/187105030-f364140d-d827-4378-b34d-aea9454993d4.png)
 # GlyphBERT
 [English version](https://github.com/HITsz-TMG/GlyphBERT/blob/master/readme_en.md)  
 
