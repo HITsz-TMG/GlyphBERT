@@ -1,5 +1,8 @@
-![TMG](https://user-images.githubusercontent.com/30381613/187105070-7038d695-2e85-44cd-b499-aec133f86afe.png)
-# GlyphBERT
+![TMG](https://user-images.githubusercontent.com/30381613/187105070-7038d695-2e85-44cd-b499-aec133f86afe.png)  
+
+***  
+# GlyphBERT  
+
 [中文版](https://github.com/HITsz-TMG/GlyphBERT/blob/master/readme.md)  
 
 This project page is about the pytorch code implementation of GlyphBERT by the HITsz-TMG research group.
